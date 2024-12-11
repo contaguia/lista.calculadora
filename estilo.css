@@ -1,0 +1,30 @@
+#contenedor{
+    width: 55%;
+    margin-left: 10%;
+    margin-right: 1%;
+    padding: 1%;
+    background-color: azure;
+    display: flexbox;
+    flex-direction: row;
+}
+
+
+
+#divTareas{
+    width: 55%;
+    margin-left: 10%;
+    margin-right: 1%;
+    padding: 1%;
+    background-color: rgb(248, 255, 240);
+}
+
+
+.button {
+    background-color: #28a745;
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
